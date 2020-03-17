@@ -12,4 +12,4 @@ while number > 0:   # Цикл поиска наибольшего числа
     else:
         number = number // 10
 
-print(result)
+print(f"Самое большое число: {result}")
